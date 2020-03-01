@@ -1,7 +1,7 @@
 {
   "name": "btn-react",
   "version": "1.0.0",
-  "description": "",
+  "description": "btn-react",
   "main": "dist/lib/index",
   "types": "dist/lib/index",
   "scripts": {
@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/lxy0828/react-btn/issues"
   },
   "keywords": [],
-  "author": "",
+  "author": "lxy",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/lxy0828/react-btn/issues"
   },
   "homepage": "",
   "dependencies": {
